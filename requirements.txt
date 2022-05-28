@@ -1,0 +1,12 @@
+matplotlib
+numpy
+pandas
+scikit_learn
+torch
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+torch_geometric
+
+
